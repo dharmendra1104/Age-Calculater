@@ -37,7 +37,7 @@ This age calculator is a web application that helps users determine their age ba
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/age-calculator.git
+https://dharmendra1104.github.io/Age-Calculater/
 
 
 
